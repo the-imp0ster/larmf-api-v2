@@ -1,4 +1,5 @@
-
+// •┈••✦ ❤ ✦••┈• LARMF API •┈••✦ ❤ ✦••┈•
+// type interfaces
 
 export interface LarmfAttribute {
     trait_type: string;

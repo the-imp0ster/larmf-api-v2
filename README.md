@@ -7,9 +7,6 @@ This project is a Next.js API for LARMF (Larva Mfers), designed to provide detai
 - Retrieve metadata for a specific LARMF character by its edition number.
 - Generate detailed physical descriptions of LARMF characters for creative uses such as for use in generating images.
 
-## Getting Started
-
-Clone the repo and install the dependencies:
 
 ### Installation
 
