@@ -128,5 +128,18 @@ components:
           type: integer
           example: 1
 
+    DerivedFrom:
+      type: object
+      properties:
+        name:
+          type: string
+          example: "Original Collection"
+        network:
+          type: string
+          example: "Ethereum"
+        src:
+          type: string
+          example: "0x123456789abcdef"
+
  
 
