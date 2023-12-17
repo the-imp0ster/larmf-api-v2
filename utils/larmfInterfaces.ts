@@ -3,8 +3,8 @@
 
 export interface LarmfAttribute {
     trait_type: string;
-    value: string;
-    // max_value?: number;
+    value: number;
+    max_value?: number;
   }
   
   export interface LarmfStats {
