@@ -100,11 +100,11 @@ components:
           type: string
           example: "Leafy"
         value:
-          type: integer
-          example: 1
+          type: string
+          example: "1"
         max_value:
-          type: integer
-          example: 5
+          type: string
+          example: "5"
 
     LarmfStats:
       type: object
