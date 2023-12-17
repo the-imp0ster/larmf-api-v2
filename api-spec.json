@@ -18,6 +18,7 @@
   "paths": {
     "/larmf/{edition}": {
       "get": {
+        "operationId": "getLarmfMetadata",
         "summary": "Get metadata for a specific larmf by its edition number (tokenId).",
         "parameters": [
           {
@@ -52,6 +53,7 @@
     },
     "/larmf/description/{edition}": {
       "get": {
+        "operationId": "getLarmfDescription",
         "summary": "Get a description of a larmf's appearance based on its edition number (tokenId).",
         "parameters": [
           {
