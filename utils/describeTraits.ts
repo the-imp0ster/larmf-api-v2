@@ -168,7 +168,7 @@ function describe_traits(larmf: Larmf): string {
                 'Cowboy_Hat': 'wearing a cowboy hat',
                 'Beanie': 'wearing a beanie',
                 'Top_Hat': 'wearing a top hat',
-                'Powdered_Wig': 'wearing a powdered wig',
+                'Powdered_Wig': 'wearing a 18th century european-style powdered wig',
                 'Wizard_Cap': 'wearing a tall blue wizard cap',
                 'Devil': 'wearing devil horns',
                 'Fabulous_Cowboy_Hat': 'wearing a fancy pink cowboy hat',
