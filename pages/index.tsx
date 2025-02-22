@@ -6,16 +6,13 @@ const Home = () => {
         border: '5px dotted black'
     };
 
-    const titleStyles = {
-        textAlign: 'center'
-    }
 
     return (
 
         <div style={bodyStyles}>
 
-            <h1 style={titleStyles}>•┈••✦ ❤ ✦••┈• LARMF API •┈••✦ ❤ ✦••┈•</h1>
-            
+            <h1>•┈••✦ ❤ ✦••┈• LARMF API •┈••✦ ❤ ✦••┈•</h1>
+
             <h2>Privacy Policy</h2>
 
             <p>Last Updated: 22 Feb 2025</p>
